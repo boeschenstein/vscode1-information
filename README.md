@@ -2,6 +2,20 @@
 
 VS Code Information
 
+## Useful extensions
+
+- Spell Checker (like streetsidesoftware.code-spell-checker)
+- Draw.io editor (lik ehediet.vscode-drawio)
+- ESLint (dbaeumer.vscode-eslint)
+- Jest Test Explorer (kavod-io.vscode-jest-test-adapter)
+- Markdown Editor (like yzhang.markdown-all-in-one)
+- Markdown Preview (like bierner.markdown-mermaid)
+- Markdown Linter (like DavidAnson.vscode-markdownlint)
+- Path Intellisense (christian-kohler.path-intellisense)
+- Pettier (esbenp.prettier-vscode)
+- Show Todo's (like Gruntfuggly.todo-tree)
+- XML Tools (like DotJoshJohnson.xml)
+
 ## Prepare Plugin recommendation:
 
 Add the file `\Frontend\.vscode\extensions.json`:
