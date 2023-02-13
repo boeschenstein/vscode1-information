@@ -82,3 +82,7 @@ Add the file `\Frontend\.vscode\settings.json`:
   ]
 }
 ```
+
+## Links
+
+- Sort Imports: <https://www.npmjs.com/package/@trivago/prettier-plugin-sort-imports>
