@@ -29,8 +29,7 @@ Add the file `\Frontend\.vscode\extensions.json`:
     "steoates.autoimport",
     "christian-kohler.path-intellisense",
     "esbenp.prettier-vscode",
-    "gruntfuggly.todo-tree",
-    "ms-vscode.vscode-typescript-tslint-plugin",
+    "rvest.vs-code-prettier-eslint"
     "gruntfuggly.todo-tree",
     "streetsidesoftware.code-spell-checker"
   ]
